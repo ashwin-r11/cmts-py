@@ -1,0 +1,8 @@
+# No Python package dependencies are required; this project uses only the Python standard library.
+#
+# Optional system tools (install via your OS package manager, not via pip) to enable full functionality:
+# - fzf    (for interactive fuzzy search)
+# - man    (man-db; for manual pages)
+# - tldr   (for simplified docs fallback)
+# - curl   (for cheat.sh fallback)
+# - col, sed (used in preview pipeline)
