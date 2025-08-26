@@ -3,7 +3,7 @@
 
 # 📖 cmts-py – Interactive Linux Command Cheatsheet
 
-`cmd-py` is your go-to interactive terminal assistant, designed to quickly show you the **most useful Linux commands** or let you explore any command’s **man page** in a clean, colorful way.
+`cmts-py` is your go-to interactive terminal assistant, designed to quickly show you the **most useful Linux commands** or let you explore any command’s **man page** in a clean, colorful way.
 
 It works like a lightweight `fzf` for man pages — making it easier to refresh your memory without searching online every time.
 
@@ -25,19 +25,19 @@ It works like a lightweight `fzf` for man pages — making it easier to refresh 
 
    ```bash
    git clone https://github.com/ashwin-r11/cmts-py.git
-   cd cmd-cheatsheet
+   cd cmts-cheatsheet
    ```
 
 2. Make it executable:
 
    ```bash
-   chmod +x cmd-py
+   chmod +x cmts-py
    ```
 
 3. (Optional) Add it to your `$PATH` for global usage:
 
    ```bash
-   sudo cp cmd-py /usr/local/bin/cmd
+   sudo cp cmts-py /usr/local/bin/cmd
    ```
 
 ---
@@ -47,7 +47,7 @@ It works like a lightweight `fzf` for man pages — making it easier to refresh 
 ### Show  cheatsheet:
 
 ```bash
-python3 cmts.py
+python3 cmts-py
 ```
 
 Output → list of most useful Linux commands with syntax & description.
