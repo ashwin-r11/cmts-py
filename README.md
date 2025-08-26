@@ -25,7 +25,7 @@ It works like a lightweight `fzf` for man pages — making it easier to refresh 
 
    ```bash
    git clone https://github.com/ashwin-r11/cmts-py.git
-   cd cmts-cheatsheet
+   cd cmts-py
    ```
 
 2. Make it executable:
