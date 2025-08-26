@@ -24,7 +24,7 @@ It works like a lightweight `fzf` for man pages — making it easier to refresh 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/cmd-cheatsheet.git
+   git clone https://github.com/ashwin-r11/cmts-py.git
    cd cmd-cheatsheet
    ```
 
